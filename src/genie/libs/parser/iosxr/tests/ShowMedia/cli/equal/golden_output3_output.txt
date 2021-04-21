@@ -1,0 +1,14 @@
+Wed Apr 21 12:57:31.330 UTC
+
+Flags: Admin State: 1-Up 2-Down 12-UnPowered 16-Shutdown
+       Oper  State: 1-Up 2-Down 3-Admin Down
+
+Summary for All Fabric Planes:
+
+Plane Id   Admin State     Oper State      Links Up    Links Down  In Pkt Count    Out Pkt count
+=============================================================================================
+0            01              01              08          00          124213051            139057223
+1            01              01              08          00          97892932            97892932
+2            01              01              08          00          97700144            97700144
+3            01              01              08          00          100769940            100769940
+4            01              01              08          00          100787722            100787722

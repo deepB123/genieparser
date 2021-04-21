@@ -1,0 +1,34 @@
+expected_output = {
+   'partition':{
+      'disk2:':{
+         'size':'3.8G',
+         'used':'945M',
+         'percent':'25%',
+         'avail':'2.9G'
+      },
+      'disk0:':{
+         'size':'3.4G',
+         'used':'9.6M',
+         'percent':'1%',
+         'avail':'3.2G'
+      },
+      '/var/lib/docker':{
+         'size':'5.6G',
+         'used':'12M',
+         'percent':'1%',
+         'avail':'5.3G'
+      },
+      'harddisk:':{
+         'size':'51G',
+         'used':'1016M',
+         'percent':'3%',
+         'avail':'48G'
+      },
+      'log:':{
+         'size':'4.5G',
+         'used':'253M',
+         'percent':'6%',
+         'avail':'4.0G'
+      }
+   }
+}

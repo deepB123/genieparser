@@ -1,0 +1,10 @@
+Fri Apr 16 21:22:35.610 UTC
+File Systems:
+
+      Size(b)      Free(b)        Type  Flags  Prefixes
+  48648003584  42960728064       flash     rw  /misc/config
+            0            0     network     rw  tftp:
+   4008443904   3018457088  flash-disk     rw  disk2:
+            0            0     network     rw  ftp:
+  54744576000  53680197632    harddisk     rw  harddisk:
+   3590602752   3580395520  flash-disk     rw  disk0:
