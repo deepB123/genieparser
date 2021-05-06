@@ -1,0 +1,38 @@
+Sat Apr 24 18:25:44.364 UTC
+================================================================================
+CHASSIS LEVEL POWER INFO: 0
+================================================================================
+   Total output power capacity (Group 0 + Group 1) :    1000W +     1000W
+   Total output power required                     :    1400W
+   Total power input                               :     223W
+   Total power output                              :     142W
+
+Power Group 0:
+================================================================================
+   Power       Supply         ------Input----   ------Output---     Status
+   Module      Type            Volts     Amps    Volts     Amps    
+================================================================================
+   0/PM0       PSU2KW-ACPI     118.0     1.1     12.0      7.7      OK
+
+Total of Group 0:              129W/1.1A         92W/7.7A
+
+Power Group 1:
+================================================================================
+   Power       Supply         ------Input----   ------Output---     Status
+   Module      Type            Volts     Amps    Volts     Amps    
+================================================================================
+   0/PM1       PSU2KW-ACPI     117.5     0.8     12.1      4.2      OK
+
+Total of Group 1:               94W/0.8A         50W/4.2A
+
+================================================================================
+   Location     Card Type               Power       Power        Status
+                                        Allocated   Used
+                                        Watts       Watts
+================================================================================
+   0/RP0/CPU0   8201-SYS                1275        -            ON
+   0/FT0        FAN-1RU-PI              25          -            ON
+   0/FT1        FAN-1RU-PI              25          -            ON
+   0/FT2        FAN-1RU-PI              25          -            ON
+   0/FT3        FAN-1RU-PI              25          -            ON
+   0/FT4        FAN-1RU-PI              25          -            ON
